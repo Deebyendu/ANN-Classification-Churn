@@ -1,4 +1,3 @@
-<img width="1916" height="1009" alt="Screenshot 2026-06-02 185155" src="https://github.com/user-attachments/assets/8609340e-3904-4c88-9fe6-27511e7afc84" />
 # 🏦 Customer Churn Prediction — ANN + Streamlit
 
 A deep learning web application that predicts whether a bank customer is likely to churn, built using an Artificial Neural Network (ANN) trained on real banking data and deployed with Streamlit.
