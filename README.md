@@ -21,7 +21,8 @@ Customer churn is one of the most critical problems in the banking industry. Thi
 
 ## 🖥️ App Demo
 
-<img width="1916" height="1009" alt="Screenshot 2026-06-02 185155" src="https://github.com/user-attachments/assets/9a6754c0-ada3-462f-992a-f04d5f424a27" />
+<img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/fa5eb37d-2066-4b57-988f-de0aed4e019e" />
+
 
 
 The app takes customer inputs like Geography, Age, Balance, Credit Score, and predicts:
