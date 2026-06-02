@@ -93,8 +93,8 @@ The app takes customer inputs like Geography, Age, Balance, Credit Score, and pr
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Deebyendu/testforest-fire.git
-cd testforest-fire
+git clone https://github.com/Deebyendu/ANN-Classification-Churn.git
+cd ANN-Classification-Churn
 ```
 
 **2. Install dependencies**
