@@ -47,6 +47,32 @@ The app takes customer inputs like Geography, Age, Balance, Credit Score, and pr
 ```
 
 ---
+## 🏋️ Model Training
+
+The model was trained for 100 epochs with early stopping on 8,000 customer records.
+
+**Sample Training Log:**
+Epoch 16/100
+250/250 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step
+
+accuracy: 0.8774
+loss: 0.3002
+val_accuracy: 0.8605
+val_loss: 0.3448
+
+**Final Results:**
+| Metric | Score |
+|---|---|
+| Training Accuracy | 87.74% |
+| Validation Accuracy | 86.05% |
+| Training Loss | 0.30   |
+| Validation Loss | 0.34 |
+
+**Key Observations:**
+- Small gap between training and validation accuracy confirms **no overfitting**
+- Model generalizes well to unseen customer data
+- Each epoch completed in under 1 second
+---
 
 ## 🧠 Model Architecture
 
